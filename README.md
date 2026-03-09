@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinith</h1>
 <h3 align="center">Software Engineer | C++ | Java | Microservices | DSA</h3>---
 
-💫 About Me:
+💫 About Me
 
 🔭 I’m currently working on
 Building scalable backend services and microservice-based applications.
@@ -23,34 +23,34 @@ I enjoy solving tricky coding problems and debugging complex issues until I find
 
 ---
 
-🌐 Socials:
+🌐 Socials
 
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)" (https://linkedin.com/in/vinithpoojary)
+""LinkedIn" (https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)" (https://linkedin.com/in/vinithpoojary)
 ""LeetCode" (https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow)" (https://leetcode.com/vinith_03)
 ""Email" (https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)" (mailto:vinith.connect@gmail.com)
 
 ---
 
-💻 Tech Stack:
+💻 Tech Stack
 
-"Java" (https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-"React" (https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-"Docker" (https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-"Apache Kafka" (https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-"HTML5" (https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-"CSS3" (https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-"C++" (https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+"Java" (https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+"C++" (https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+"JavaScript" (https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+"React" (https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+"Docker" (https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+"Apache Kafka" (https://img.shields.io/badge/Apache_Kafka-000?style=for-the-badge&logo=apachekafka)
+"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
-📊 GitHub Stats:
+📊 GitHub Stats
 
-https://github-readme-stats.vercel.app/api?username=vinithp03&theme=dark&hide_border=false&include_all_commits=true&count_private=true
+"Vinith's GitHub stats" (https://github-readme-stats.vercel.app/api?username=vinithp03&show_icons=true&theme=dark)
 
-https://nirzak-streak-stats.vercel.app/?user=vinithp03&theme=dark&hide_border=false
+"GitHub Streak" (https://nirzak-streak-stats.vercel.app/?user=vinithp03&theme=dark)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=vinithp03&theme=dark&hide_border=false&layout=compact
+"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=vinithp03&layout=compact&theme=dark)
 
 ---
 
@@ -62,8 +62,8 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=vinithp03&theme=d
 
 ✍️ Random Dev Quote
 
-https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight
+"Quote" (https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
-"https://visitcount.itsvg.in/api?id=vinithp03&icon=0&color=0" (https://visitcount.itsvg.in)
+"Visitor Count" (https://visitcount.itsvg.in/api?id=vinithp03&icon=0&color=0)
